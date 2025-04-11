@@ -1,0 +1,12 @@
+C:\Users\wodyd\Desktop\Repository\myproject\WPFResearch\src\Research.DataContext\bin\Debug\net9.0-windows\Research.DataContext.deps.json
+C:\Users\wodyd\Desktop\Repository\myproject\WPFResearch\src\Research.DataContext\bin\Debug\net9.0-windows\Research.DataContext.dll
+C:\Users\wodyd\Desktop\Repository\myproject\WPFResearch\src\Research.DataContext\bin\Debug\net9.0-windows\Research.DataContext.pdb
+C:\Users\wodyd\Desktop\Repository\myproject\WPFResearch\src\Research.DataContext\obj\Debug\net9.0-windows\Research.DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wodyd\Desktop\Repository\myproject\WPFResearch\src\Research.DataContext\obj\Debug\net9.0-windows\Research.DataContext.AssemblyInfoInputs.cache
+C:\Users\wodyd\Desktop\Repository\myproject\WPFResearch\src\Research.DataContext\obj\Debug\net9.0-windows\Research.DataContext.AssemblyInfo.cs
+C:\Users\wodyd\Desktop\Repository\myproject\WPFResearch\src\Research.DataContext\obj\Debug\net9.0-windows\Research.DataContext.csproj.CoreCompileInputs.cache
+C:\Users\wodyd\Desktop\Repository\myproject\WPFResearch\src\Research.DataContext\obj\Debug\net9.0-windows\Research.DataContext.sourcelink.json
+C:\Users\wodyd\Desktop\Repository\myproject\WPFResearch\src\Research.DataContext\obj\Debug\net9.0-windows\Research.DataContext.dll
+C:\Users\wodyd\Desktop\Repository\myproject\WPFResearch\src\Research.DataContext\obj\Debug\net9.0-windows\refint\Research.DataContext.dll
+C:\Users\wodyd\Desktop\Repository\myproject\WPFResearch\src\Research.DataContext\obj\Debug\net9.0-windows\Research.DataContext.pdb
+C:\Users\wodyd\Desktop\Repository\myproject\WPFResearch\src\Research.DataContext\obj\Debug\net9.0-windows\ref\Research.DataContext.dll

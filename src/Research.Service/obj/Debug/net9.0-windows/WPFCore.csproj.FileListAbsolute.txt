@@ -1,0 +1,13 @@
+C:\Users\wodyd\Desktop\Repository\myproject\WPFResearch\src\WPFCore\bin\Debug\net9.0-windows\WPFCore.deps.json
+C:\Users\wodyd\Desktop\Repository\myproject\WPFResearch\src\WPFCore\bin\Debug\net9.0-windows\WPFCore.dll
+C:\Users\wodyd\Desktop\Repository\myproject\WPFResearch\src\WPFCore\bin\Debug\net9.0-windows\WPFCore.pdb
+C:\Users\wodyd\Desktop\Repository\myproject\WPFResearch\src\WPFCore\obj\Debug\net9.0-windows\WPFCore.csproj.AssemblyReference.cache
+C:\Users\wodyd\Desktop\Repository\myproject\WPFResearch\src\WPFCore\obj\Debug\net9.0-windows\WPFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wodyd\Desktop\Repository\myproject\WPFResearch\src\WPFCore\obj\Debug\net9.0-windows\WPFCore.AssemblyInfoInputs.cache
+C:\Users\wodyd\Desktop\Repository\myproject\WPFResearch\src\WPFCore\obj\Debug\net9.0-windows\WPFCore.AssemblyInfo.cs
+C:\Users\wodyd\Desktop\Repository\myproject\WPFResearch\src\WPFCore\obj\Debug\net9.0-windows\WPFCore.csproj.CoreCompileInputs.cache
+C:\Users\wodyd\Desktop\Repository\myproject\WPFResearch\src\WPFCore\obj\Debug\net9.0-windows\WPFCore.sourcelink.json
+C:\Users\wodyd\Desktop\Repository\myproject\WPFResearch\src\WPFCore\obj\Debug\net9.0-windows\WPFCore.dll
+C:\Users\wodyd\Desktop\Repository\myproject\WPFResearch\src\WPFCore\obj\Debug\net9.0-windows\refint\WPFCore.dll
+C:\Users\wodyd\Desktop\Repository\myproject\WPFResearch\src\WPFCore\obj\Debug\net9.0-windows\WPFCore.pdb
+C:\Users\wodyd\Desktop\Repository\myproject\WPFResearch\src\WPFCore\obj\Debug\net9.0-windows\ref\WPFCore.dll

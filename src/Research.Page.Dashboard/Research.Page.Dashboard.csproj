@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Icon\earning.png" />
+    <None Remove="Icon\save.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="8.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Research.Control\Research.Control.csproj" />
+    <ProjectReference Include="..\Research.DataContext\Research.DataContext.csproj" />
+    <ProjectReference Include="..\Research.Service\Research.Service.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Icon\earning.png" />
+    <Resource Include="Icon\save.png" />
+  </ItemGroup>
+
+</Project>

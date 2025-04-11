@@ -1,0 +1,78 @@
+﻿<UserControl x:Class="Research.Page.Dashboard.DashboardView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Research.Page.Dashboard"
+             xmlns:control="clr-namespace:Research.Control;assembly=Research.Control"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Background="#000000">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="120"/>
+            <RowDefinition Height="120"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <local:ColorCard 
+                Grid.Column="0"
+                StartColor="#b9811a"
+                EndColor="#ebd130"
+                Title="전체 수익률"
+                Value="{Binding EarnRate}"
+                IconSource="pack://application:,,,/Research.Page.Dashboard;component/Icon/earning.png"/>
+            <local:ColorCard 
+                Grid.Column="1"
+                StartColor="#5a61d3"
+                EndColor="#746eae"
+                Title="총 거래 횟수"
+                Value="{Binding TradeCount}"
+                IconSource="pack://application:,,,/Research.Page.Dashboard;component/Icon/earning.png"/>
+            <local:ColorCard 
+                Grid.Column="2"
+                StartColor="#50a9b5"
+                EndColor="#8edce6"
+                Title="최대 수익금"
+                Value="{Binding MaxEarnWon}"
+                IconSource="pack://application:,,,/Research.Page.Dashboard;component/Icon/earning.png"/>
+            <local:ColorCard 
+                Grid.Column="3"
+                StartColor="#dc5b98"
+                EndColor="#d456c3"
+                Title="최대 손실액"
+                Value="{Binding MaxLossWon}"
+                IconSource="pack://application:,,,/Research.Page.Dashboard;component/Icon/earning.png"/>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <!--<control:SlideToggleButton 
+                Grid.Column="0"
+                Width="100"
+                Height="40"/>-->
+            <control:IconButton 
+                Grid.Column="1" 
+                IconSource="pack://application:,,,/Research.Page.Dashboard;component/Icon/save.png"
+                Margin="4"
+                Background="#FFFF00"
+                BorderBrush="#FF00FF"
+                BorderThickness="4"
+                CornerRadius="4"
+                HoverColor="#FF00FF"
+                ClickColor="#00FFFF"
+                IconHeight="30"
+                IconWidth="30"
+                Width="60" Height="60"/>
+        </Grid>
+    </Grid>
+</UserControl>
